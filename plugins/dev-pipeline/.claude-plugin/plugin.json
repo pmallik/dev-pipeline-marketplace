@@ -1,0 +1,6 @@
+{
+  "name": "dev-pipeline",
+  "description": "Reusable 9-agent build workflow: brainstorm, plan, code, run, sample data, validate, error handling/logging, unit tests.",
+  "version": "1.0.0",
+  "author": { "name": "Your Name" }
+}

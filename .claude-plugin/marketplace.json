@@ -1,0 +1,11 @@
+{
+  "name": "dev-pipeline-marketplace",
+  "owner": { "name": "Your Name" },
+  "plugins": [
+    {
+      "name": "dev-pipeline",
+      "source": "./plugins/dev-pipeline",
+      "description": "Reusable 9-agent build workflow: brainstorm, plan, code, run, sample data, validate, logging, tests."
+    }
+  ]
+}
